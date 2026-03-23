@@ -1,3 +1,3 @@
-# MovieRecomendation for hollywood
-tamil
+# MovieRecomendation for modified with code from developers
+
 using corelation matrix
